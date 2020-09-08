@@ -1,0 +1,3 @@
+pathname,search,hash,response
+*,*,*,"{ error: 1, error_msg: ""Page not found"" }"
+/users/1,*,*,"{ name: ""John Doe"", active: true }"
